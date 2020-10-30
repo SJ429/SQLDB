@@ -3,7 +3,7 @@ Employee Database: A Mystery in Two Parts
 ## Background
 
 
-In this assignment, the tables design to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform:
+In this assignment, the tables were designed to hold data in the CSV data imported CSVs into a SQL database.  Also answers to questions about the data. 
 
 1. Data Engineering
 
@@ -42,17 +42,6 @@ Once you have a complete database, do the following:
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-## Bonus (Optional)
-
-As you examine the data, you are overcome with a creeping suspicion that the dataset is fake. You surmise that your boss handed you spurious data in order to test the data engineering skills of a new employee. To confirm your hunch, you decide to take the following steps to generate a visualization of the data, with which you will confront your boss:
-
-1. Import the SQL database into Pandas. (Yes, you could read the CSVs directly in Pandas, but you are, after all, trying to prove your technical mettle.) This step may require some research. Feel free to use the code below to get started. Be sure to make any necessary modifications for your username, password, host, port, and database name:
 
 
-2. Create a histogram to visualize the most common salary ranges for employees.
 
-3. Create a bar chart of average salary by title.
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
