@@ -15,7 +15,7 @@ Therefore, tables were designed using ERD
 
 * A table schema for each of the six CSV files was created.
 
-* Then each CSV file was imported into the corresponding SQL table to hold data  a SQL database.  
+* Then each CSV file was imported into the corresponding SQL table to hold data in the database.  
 
 #### Data Analysis
 
