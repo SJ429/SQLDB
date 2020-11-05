@@ -19,7 +19,7 @@ Therefore, tables were designed using ERD
 
 #### Data Analysis
 
-Once the database was completed database, the analysis was done and included:
+Once the database was completed, the analysis was done and included:
 
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
 
