@@ -6,7 +6,7 @@
 
 This assignment was to design and create a SQL database to store employees' data in order to perform analysis.
 
-Therefore, tables were designed using ERD 
+Therefore, tables were designed using ERD. 
 
 ![](EmployeeSQL/imagesql/ERD%20QuickDBD.png)
 
