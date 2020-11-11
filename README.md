@@ -20,6 +20,7 @@ Therefore, tables were designed using ERD.
 
 * Then each CSV file was imported into the corresponding SQL table to hold data in the database.  
 
+
 #### Data Analysis
 
 Once the database was completed, the analysis was done and included:
