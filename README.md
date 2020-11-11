@@ -10,6 +10,7 @@ Therefore, tables were designed using ERD.
 
 
 
+
 ![](EmployeeSQL/imagesql/ERD%20QuickDBD.png)
 
 
@@ -34,7 +35,6 @@ Once the database was completed, the analysis was done and included:
 4. List the department of each employee with the following information: employee number, last name, first name, and department name.
 
 5. List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
-
 
 6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
 
