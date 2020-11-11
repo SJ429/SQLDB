@@ -1,5 +1,5 @@
 
-## Employee SQL  PostgresDatabase: 
+## Employee SQL Postgres Database: 
 
 
 
