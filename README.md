@@ -6,7 +6,14 @@
 
 This assignment was to design and create a SQL database to store employees' data in order to perform analysis.
 
-Therefore, tables were designed using ERD. 
+ Six CSV data files were used in the analysis.
+
+
+#### Data Engineering
+
+Therefore, tables were designed using ERD then a table schema for each of the six CSV files was created.
+
+
 
 
 
@@ -14,12 +21,11 @@ Therefore, tables were designed using ERD.
 ![](EmployeeSQL/imagesql/ERD%20QuickDBD.png)
 
 
+  
 
-#### Data Engineering
 
-* A table schema for each of the six CSV files was created.
 
-* Then each CSV file was imported into the corresponding SQL table to hold data in the database.  
+* Then each CSV file was imported into the corresponding SQL table to hold data in the database.
 
 
 #### Data Analysis
