@@ -25,7 +25,7 @@ Therefore, tables were designed using ERD then a table schema for each of the si
 
 
 
-* Then each CSV file was imported into the corresponding SQL table to hold data in the database.
+* Then each CSV file was imported into the corresponding SQL table to hold data in the database, Postgres.
 
 
 #### Data Analysis
